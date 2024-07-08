@@ -1,1 +1,1 @@
-# Simple app with SSTI bulnerability
+# Simple app with SSTI vulnerability
